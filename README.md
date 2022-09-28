@@ -1,4 +1,4 @@
-# Mini_iOS_Projects
+# Mini_iOS_Development_Projects
 
 ## 1. iOS_SimpleScrolling_List
 
